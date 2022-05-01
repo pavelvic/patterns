@@ -1,4 +1,4 @@
-package FactoryMethod;
+package com.company.FactoryMethod;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package FactoryMethod;
+package com.company.FactoryMethod;
 
 public class ShipLogistic implements Logistic {
     @Override
